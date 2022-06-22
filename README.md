@@ -6,21 +6,19 @@
 
 ![](https://scontent.flhe13-1.fna.fbcdn.net/v/t1.18169-9/23659204_1332629590182047_5798777126418729882_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGCRSZj3G-d0UumHKiusfhqfKqchMMR-Ip8qpyEwxH4inHte4Xd7ko9PgGT3QiuYyDn0ObaAnTjJGB2tWGigll2&_nc_ohc=xEDhFwSfuwwAX-BdWYy&_nc_ht=scontent.flhe13-1.fna&oh=00_AT_t3l1AxQxcRBapj7Tjttv_TlKQNz2HEroChVsegxuBNg&oe=62D96044)
 
-Do you need a superb quality website? Or want to get your website issues fixed? Contact me with confidence.
-
-I provide top-notch quality website design and web development services. I am a professional software engineer with over seven years of experience in Web Design & WordPress.
+Do you need a superb quality website? Or want to get your website issues fixed? Contact me with confidence.I provide top-notch quality website design and web development services. I am a professional software engineer with over seven years of experience in Web Design & WordPress.
 
 If you need any of the following work done; contact me right away.
 
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Website Design
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> WordPress Website Development
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Website Redesign
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Updating Website
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Fixing Website Issues
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Malware Removal / Website Security
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Website Migration
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Website Speed-up / Performance
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Search Engine Optimization
+* Website Design
+* WordPress Website Development
+* Website Redesign
+* Updating Website
+* Fixing Website Issues
+* Malware Removal / Website Security
+* Website Migration
+* Website Speed-up / Performance
+* Search Engine Optimization
 
 
 
