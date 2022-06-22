@@ -1,11 +1,8 @@
-## Hey there, Shubham this side!
+## Hey there, Touseef this side!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Backend Developer working remotely in India.
-- 💼 &nbsp; Best Selling Instructor (Explore my courses on Python Programming, Django Framework and Data Structures Algorithms).
-- 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
-- ⚡️ &nbsp; Fun fact: I like playing chess.
+- 🤔 &nbsp; I am a Full-Stack developer with over 5 years of experience in web development (PHP, wordpress, Laravel, HTML, CSS, JS). I love problem solving and can handle medium and small task to huge, high-load projects.
 
 ---
 
@@ -52,8 +49,7 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
-<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
-<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+
+<a href="https://www.linkedin.com/in/touseef-ahmed-72a84216a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+<a href="https://www.facebook.com/touseef.ahmed20/"><img alt="Facebook" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
 </p>
