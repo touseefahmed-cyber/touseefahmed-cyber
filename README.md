@@ -1,4 +1,4 @@
-### Hi I'm Touseef Ahmed 👋
+### Hi, I'm Touseef Ahmed 👋
 <p dir="auto">
 <g-emoji class="g-emoji" alias="crown" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f451.png">👑</g-emoji> I am Web Developer <br> 
 <g-emoji class="g-emoji" alias="pen" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png">🖊️</g-emoji> Love to write code <br> 
