@@ -50,6 +50,6 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/touseef-ahmed-72a84216a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.facebook.com/touseef.ahmed20/"><img alt="Facebook" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
+<a href="https://www.linkedin.com/in/touseef-ahmed-72a84216a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-touseefahmed-blue"></a>
+<a href="https://www.facebook.com/touseef.ahmed20/"><img alt="Facebook" src="https://img.shields.io/badge/instagram-touseefahmed20.ul-red"></a>
 </p>
