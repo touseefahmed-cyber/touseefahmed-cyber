@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; I am a Full-Stack developer with over 7 years of experience in web development (PHP, wordpress, Laravel, HTML, CSS, JS). I love problem solving and can handle medium and small task to huge, high-load projects.I provide top-notch quality website design and web development services. I am a professional software engineer with over 7 years of experience in Web Design & WordPress. If you need a new website, want anything done on your website, or want to modernize your existing website, do not hesitate to contact me.
+- 🤔 &nbsp; I am a Full-Stack developer with over 8 years of experience in web development (PHP, wordpress, Laravel, HTML, CSS, JS). I love problem solving and can handle medium and small task to huge, high-load projects.I provide top-notch quality website design and web development services. I am a professional software engineer with over 7 years of experience in Web Design & WordPress. If you need a new website, want anything done on your website, or want to modernize your existing website, do not hesitate to contact me.
 
 ---
 
